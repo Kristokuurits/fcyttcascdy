@@ -99,7 +99,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::BitCoinApp.Properties.Resources.Screenshot_2024_02_27_181049;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(610, 336);
             this.Controls.Add(this.ResultTextBox);
             this.Controls.Add(this.resultLabel);
             this.Controls.Add(this.label1);
